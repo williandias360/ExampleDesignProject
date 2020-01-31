@@ -1,0 +1,11 @@
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.deps.json
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.dll
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csprojAssemblyReference.cache
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfo.cs
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.dll
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/willian/Projetos/Csharp/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CopyComplete
